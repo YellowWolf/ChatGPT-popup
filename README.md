@@ -20,7 +20,11 @@ ChatGPTX is a lightweight application that allows you to quickly access a GPT wi
 ## Video Instructions
 
 Refer to the provided video for a step-by-step installation guide.
-
+https://github.com/user-attachments/assets/8c0e3868-b3c3-4270-a051-cf0052f3f636
 ## Repository
 
 [YellowWolf/ChatGPT-popup](https://github.com/YellowWolf/ChatGPT-popup)
+
+
+
+
