@@ -11,11 +11,10 @@ ChatGPTX is a lightweight application that allows you to quickly access a GPT wi
 
 ## Installation Instructions
 
-1. Download the source code from the GitHub repository.
+1. Download the source code.zip from the GitHub repository.
 2. Unzip the downloaded file.
 3. Run `install - open me.bat` to initiate the installation process.
-
-**Important:** After clicking "Yes" during the AHK installation, do not press any keys. The PWA installation relies on keyboard inputs and will proceed automatically.
+4. **Important:** After clicking "Yes" during from the popup of the AHK installation, DO NOT PRESS ANY KEYS UNTILL FINISH.
 
 ## Video Instructions
 
